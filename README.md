@@ -13,3 +13,11 @@ In the 'app' directory:
 6) square_cube_v2.py
 7) timer_example.py
 8) timer_with_loop.py
+
+### Support / Found a bug?
+Here are the options
+  (1) Please file an issue with detailed description.
+  (2) If you know a possible solution, please create a new brnach, update the code and then submit pull request.
+  
+### General Disclaimer 
+This is my personal repo and not an official product of any company. If you'd like to use this code, please keep it in your mind that, although I have tried to make it as error-free as possible, there's no warranty of a 100% bug free application. 
