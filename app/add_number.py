@@ -1,5 +1,4 @@
-# Write a program that adds two numbers and prints the result
-
+# Write a program that adds two numbers and prints the result.
 
 import threading 
 
