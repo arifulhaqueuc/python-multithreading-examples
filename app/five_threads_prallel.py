@@ -12,6 +12,6 @@ def uf(num1, num2):
 
 threads = []
 for i in range(5):
-	t = threading.Thread(target=uf, args=(12,20))
-	threads,append(t)
+	t = threading.Thread(target=uf, args=(10,20))
+	threads.append(t)
 	t.start()
