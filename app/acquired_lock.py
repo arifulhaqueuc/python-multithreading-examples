@@ -1,6 +1,9 @@
 import threading
 import time 
+
+
 tLock = threading.Lock()
+
 def timer(name, delay, repeat):
   print ("Timer: " + name + "Started")
   

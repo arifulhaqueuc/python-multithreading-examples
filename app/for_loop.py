@@ -1,4 +1,4 @@
-## This program creates five threads which in turn each will print "Hello World" on the screen
+# This program creates five threads which in turn each will print "Hello World" on the screen
 
 import threading
 
