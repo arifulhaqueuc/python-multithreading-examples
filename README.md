@@ -12,22 +12,22 @@ This repository helps us understand usage of Python's threading module in differ
 | Status | Phase 1 |
 | Development Timeline | Start Jan 2018 :: Finish Feb 2018 |
 
+
 ### Project Description
 
 
 | File Name | Description |
 | --- | --- |
-| hello_world.py | This is a simple program to print Hello World using threading. A user defined function is created and the function is called when a thread has been initialized.
- |
+| hello_world.py | This is a simple program to print Hello World using threading. A user defined function is created and the function is called when a thread has been initialized. |
 | add_number.py | This program adds two numbers and prints the result with thread. |
 | for_loop.py | This program adds two numbers and prints the result with thread. |
 | add_number.py | This program creates five threads which in turn each will print "Hello World" on the screen. |
 | five_threads_prallel.py | This program creates five threads which executed in parallel, each of them will add two numbers and will print the results. |
-| acquired_lock.py | |
-| square_cube.py | |
-| square_cube_v2.py | |
-| timer_example.py | |
-| timer_with_loop.py | |
+| acquired_lock.py | TBD |
+| square_cube.py | TBD |
+| square_cube_v2.py | TBD |
+| timer_example.py | TBD |
+| timer_with_loop.py | TBD |
 
 
 ### Support / Found a bug?
