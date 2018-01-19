@@ -1,6 +1,16 @@
 ### Background
 
-This repository describes us how to use Python's threading module in different programs with various requirements. In general, running multiple threads simulteneously is equivalent to running several programs at the same time. However, in a Python application or program if we use threading module we may have several advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. In addition, threading in Python is a very popular process to attain concurrency and parallelism. 
+As we all know, in general, running multiple threads simulteneously is equivalent to running several programs at the same time. In such case, threading in Python is a very popular process to attain concurrency and parallelism. Using threading module in a Python program gives us several key advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. 
+
+This repository helps us understand usage of Python's threading module in different programs with various requirements. 
+
+
+### Project Overview
+|  |  |
+| --- | --- |
+| Repo Type | Scripts |
+| Status | Phase 1 |
+| Development Timeline | Start Jan 2018 :: Finish Feb 2018 |
 
 ### Project Description
 
