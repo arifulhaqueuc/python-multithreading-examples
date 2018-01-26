@@ -1,5 +1,9 @@
-<img src="https://user-images.githubusercontent.com/20999114/35406690-a0af0164-01d7-11e8-82fe-43e2ab780420.gif" width="40" height="40"> This repo is under active development at this time, so **frequent update is expected**. Users are requested to update their local master branch every couple of days a week. Thank you. 
-
+```diff
++ This repo is under active development at this time,
+- so, frequent and random updates
++ are very likely to happen. Followers are requested to update 
++ their local repository every couple of days a week. Thank you. 
+```
 
 ### Python-Multithreading-Example
 A collection of Python Scripts.
