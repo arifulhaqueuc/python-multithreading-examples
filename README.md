@@ -26,8 +26,12 @@ This repository helps us understand usage of Python's threading module in differ
 | License Type | MIT |
 
 
-### Project Description
+### Project Description  
+
 All the following files are avilable in the 'app' directory.
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  *Please note that this description section may not be fully
+updated as of today as I update this section once a week. You might find more scripts in the acctual application directory*
 
 | File Name | Description |
 | --- | --- |
