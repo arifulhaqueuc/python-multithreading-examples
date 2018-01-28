@@ -1,7 +1,6 @@
-### Repo Update Center / Last Update Info
+### Update Center / Repo Last Update Info
 Time: Jan 28 3.00 PM EST
-
-Update Impact: Major
+<br />Update Impact: Major
 
 
 ```diff
