@@ -1,5 +1,5 @@
 ### Update Center / Repo Last Update Info
-Time: Jan 28 3.00 PM EST
+Time: Jan 28 11.00 PM EST
 <br />Update Impact: Major
 
 
@@ -50,6 +50,17 @@ updated as of today as I update this section once a week. You might find more sc
 | square_cube_v2.py | TBD |
 | timer_example.py | TBD |
 | timer_with_loop.py | TBD |
+
+<!--
+1_hello_world
+2_add_number
+3_default_thread_name
+4_print_numbers
+9_square_cube
+7_timer_with_loop
+10_thread_with_obj
+6_timer_example
+-->
 
 
 ### Technical Description / Primary Technologies or concepts Used
