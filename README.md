@@ -1,13 +1,12 @@
-### Update Center / Repo Last Update Info
+### Update Center / Repository Update Info <img src="https://user-images.githubusercontent.com/20999114/35537819-a71d5fc4-0519-11e8-9d1f-489ca7ed6822.gif" height="30" width="40"> 
 Time: Jan 28 11.00 PM EST
 <br />Update Impact: Major
-
 
 ```diff
 + This repo is under active development at this time,
 - so, frequent and random updates
 + are very likely to happen. Followers are requested to update 
-+ their local repository every couple of days a week. Thank you. 
++ their local repository every every other day. Thank you. 
 ```
 
 ### Python-Multithreading-Example
@@ -36,7 +35,7 @@ This repository helps us understand usage of Python's threading module in differ
 All the following files are avilable in the 'app' directory.
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  *Please note that this description section may not be fully
-updated as of today as I update this section once a week. You might find more scripts in the acctual application directory*
+updated as of today as I update this section once a week. You might find more scripts in the acctual application directory*. All scripts have short in-script description on the function of the program.
 
 | File Name | Description |
 | --- | --- |
