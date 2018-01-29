@@ -1,5 +1,10 @@
+#!/usr/bin/python
+
+
 import threading
 import logging
+import time
+
 
 logging.basicConfig(
 	level=logging.DEBUG,
@@ -7,12 +12,14 @@ logging.basicConfig(
 )
 
 
-class FirstThread(threading.Thread):
-
+class MyThread(threading.Thread):
     def run(self):
         logging.debug('This thread is running')
         return
 
 for x in range(5):
-	z=FirstThread()
+	z=MyThread()
 	z.start()
+	time.sleep(1)        
+        
+        
