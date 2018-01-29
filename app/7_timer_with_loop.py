@@ -1,8 +1,12 @@
+#!/usr/bin/python
+
+
 from threading import Thread 
 import time 
 
+
 def timer(name, delay, repeat):
-  print ("Timer: " + name + "Started")
+  print ("Timer: " + name + " Started")
   
   while repeat > 0:
     time.sleep(delay)
@@ -10,11 +14,12 @@ def timer(name, delay, repeat):
     repeat -= 1
   print ("Timer: " + name + "Completed")
   
+
 def Main():
-  t1 = Thread(target=timer, args=("Timer1", 1, 5))
-  t2 = Thread(target=timer, args=("Timer2", 2, 5))
-  t1.start()
-  t2.start()
+  thread1 = Thread(target=timer, args=("Timer1", 1, 5))
+  thread2 = Thread(target=timer, args=("Timer2", 2, 5))
+  thread1.start()
+  thread2.start()
   
   print ("Main completed")
   

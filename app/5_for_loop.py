@@ -17,15 +17,14 @@ def HelloWorld():
 
 def Main():
 	threads = [] # Threads list needed when we use a bulk of threads
-	print "Program started"
+	print "Program started.  This program will print Hello World five times..."
 	for i in range(5):
-		t = threading.Thread(target=HelloWorld)
-		threads.append(t)
+		mythread = threading.Thread(target=HelloWorld)
+		threads.append(mythread)
 		time.sleep(2)
-		t.start()
-	print "Program ended"
+		mythread.start()
+	print "Done! Program ended"
 
 
-## 1st apprach to get the for loop running
 if __name__ == "__main__":
 	Main()
