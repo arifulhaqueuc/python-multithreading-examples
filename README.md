@@ -37,18 +37,18 @@ All the following files are avilable in the 'app' directory.
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  *Please note that this description section may not be fully
 updated as of today as I update this section once a week. You might find more scripts in the acctual application directory*. All scripts have short in-script description on the function of the program.
 
-| File Name | Description |
-| --- | --- |
-| hello_world.py | This is a simple program to print Hello World using threading. A user defined function is created and the function is called when a thread has been initialized. |
-| add_number.py | This program adds two numbers and prints the result with thread. |
-| for_loop.py | This program adds two numbers and prints the result with thread. |
-| add_number.py | This program creates five threads which in turn each will print "Hello World" on the screen. |
-| five_threads_prallel.py | This program creates five threads which executed in parallel, each of them will add two numbers and will print the results. |
-| acquired_lock.py | TBD |
-| square_cube.py | TBD |
-| square_cube_v2.py | TBD |
-| timer_example.py | TBD |
-| timer_with_loop.py | TBD |
+| File Name | Difficulty Devel | Description |
+| --- | --- | --- | 
+| hello_world.py | Beginner | This is a simple program to print Hello World using threading. A user defined function is created and the function is called when a thread has been initialized. |
+| add_number.py | Beginner | This program adds two numbers and prints the result with thread. |
+| for_loop.py | TBD | This program adds two numbers and prints the result with thread. |
+| add_number.py | TBD | This program creates five threads which in turn each will print "Hello World" on the screen. |
+| five_threads_prallel.py | TBD | This program creates five threads which executed in parallel, each of them will add two numbers and will print the results. |
+| acquired_lock.py | TBD | TBD |
+| square_cube.py | TBD | TBD |
+| square_cube_v2.py | TBD | TBD |
+| timer_example.py | TBD | TBD |
+| timer_with_loop.py | TBD | TBD |
 
 <!--
 1_hello_world
