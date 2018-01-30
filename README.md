@@ -1,5 +1,5 @@
 ### Update Center / Repository Update Info <img src="https://user-images.githubusercontent.com/20999114/35537819-a71d5fc4-0519-11e8-9d1f-489ca7ed6822.gif" height="30" width="40"> 
-Time: Jan 28 11.00 PM EST
+Time: Jan 30 01:00 AM EST
 <br />Update Impact: Major
 
 ```diff
