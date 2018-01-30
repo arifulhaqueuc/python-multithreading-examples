@@ -1,10 +1,8 @@
-#!/usr/bin/python
-
-
 ## This multithreading program prints output 
 ## of square and cube of a series of numbers
 
 
+#!/usr/bin/python
 import time
 import threading
 

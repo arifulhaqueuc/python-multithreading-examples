@@ -1,10 +1,8 @@
-#!/usr/bin/python
-
-
 # This multithreading program creates five threads 
 # and each thread prints "Hello World" with a two-second interval
 
 
+#!/usr/bin/python
 import threading
 import time
 

@@ -1,8 +1,7 @@
-#!/usr/bin/python
-
 # This multithreading program adds two given numbers and prints the result.
 
 
+#!/usr/bin/python
 import threading 
 
 

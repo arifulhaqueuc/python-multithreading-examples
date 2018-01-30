@@ -1,8 +1,8 @@
-#!/usr/bin/python
-
 # This multithreading program outputs default thread name when 
 # the thread is being executed.
 
+
+#!/usr/bin/python
 import threading
 import time
 
