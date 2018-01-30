@@ -1,11 +1,9 @@
-#!/usr/bin/python
-
-
 ## This is not very trivial to access the values of 
 ## args and kwargs from a subclass as their values are
 ## being saved in private variables. 
 
 
+#!/usr/bin/python
 import threading
 import logging
 import time

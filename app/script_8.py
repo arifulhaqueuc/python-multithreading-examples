@@ -1,11 +1,9 @@
-#!/usr/bin/python
-
-
 ## This program creates a thread, 
 ## officially names it and 
 ## tries to print the name
 
 
+#!/usr/bin/python
 import threading
 import time
 

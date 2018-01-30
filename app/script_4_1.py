@@ -1,9 +1,7 @@
-#!/usr/bin/python
-
-
 ## This program prints 1 to 10 with threading module
 
 
+#!/usr/bin/python
 import threading
 import time
 

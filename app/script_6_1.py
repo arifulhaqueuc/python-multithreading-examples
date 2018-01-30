@@ -1,12 +1,11 @@
-#!/usr/bin/python
-
-import threading
-import time
-
-
 ## This multithreading program runs five times
 ## and each time the program takes two numbers as given input
 ## and print sum of them.
+
+
+#!/usr/bin/python
+import threading
+import time
 
 
 def MyThread(num1, num2):
