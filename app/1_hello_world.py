@@ -15,10 +15,11 @@ def MyFunction():
 
 
 def Main():
-	t = threading.Thread(target=MyFunction) 	# This is where we create a thread. 
-												# Target means run this function 
-												# when a thread is initiated.
-	t.start() 	# Starting a thread
+	"""This is where we create a thread. 
+	Target means run this function when a thread is initiated."""
+
+	myThread = threading.Thread(target=MyFunction) 	
+	myThread.start() 	# Starting a thread
 
 
 if __name__ == '__main__':
