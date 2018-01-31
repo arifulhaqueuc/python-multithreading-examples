@@ -30,7 +30,7 @@ After practicing in all given scripts at least couple of time would help Python'
   - Good Knowledge of args, and kwargs
 
 
-:green_book: About the Project 
+:green_book: Project Insights
 ===
 #### Repository Type
 This repo is not a complete application or project, rather it's a collection of individual scripts. 
