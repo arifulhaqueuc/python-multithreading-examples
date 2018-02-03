@@ -49,7 +49,7 @@ As we all know, in general, running multiple threads simulteneously is equivalen
 
 
 #### Functional Description
-All the following files are avilable in the 'app' directory.
+All the following files are avilable in the 'script' directory.
 <br /> *Please note that this description section may not be fully updated as of today as I update this section once a week. You might find more scripts in the acctual application directory. Each script has a concise in-script description of the program.*
 
 | File Name | Difficulty Devel | Description |
