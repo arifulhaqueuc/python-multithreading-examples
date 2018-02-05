@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/20999114/35537819-a71d5fc4-0519-11e8-9d1f-489ca7ed6822.gif" height="30" width="40"> Update Center 
+<img src="https://user-images.githubusercontent.com/20999114/35537819-a71d5fc4-0519-11e8-9d1f-489ca7ed6822.gif" height="30" width="40">  Project Update & Overview
 ====
 Last Update Info 
 <br />Time: Jan 31 01:00 AM EST
@@ -11,6 +11,14 @@ Last Update Info
 + their local repository as frequent as possible. Thank you. 
 ```
 
+#### Birds Eye View 
+|  |  |
+| --- | --- |
+| Repo Type | Script Type |
+| Current Status | Phase 1 |
+| Development Timeline | Start Jan 2018 :: Finish Feb 2018 |
+| Application Type | Backend |
+| License Type | MIT |
 
 
 :couple: Audience Insights 
@@ -38,14 +46,6 @@ This repo is not a complete application or project, rather it's a collection of 
 #### Knowledge Base
 As we all know, in general, running multiple threads simulteneously is equivalent to running several programs at the same time. In such case, threading in Python is a very popular process to attain concurrency and parallelism. Using threading module in a Python program gives us several key advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. 
 
-#### Birds Eye View 
-|  |  |
-| --- | --- |
-| Repo Type | Script Type |
-| Current Status | Phase 1 |
-| Development Timeline | Start Jan 2018 :: Finish Feb 2018 |
-| Application Type | Backend |
-| License Type | MIT |
 
 
 #### Functional Description
