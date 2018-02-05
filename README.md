@@ -95,5 +95,8 @@ Found a bug??
 Interester in Collaboration and Contribution??
 <br /> I am open to except any relevant collaboration suggestion from developers. Feel free to reach out to me in email.
 
-### General Disclaimer
+#### General Disclaimer
 This is my personal repo and not an official product of any company. If you would like to use this code, please keep it in your mind that, although I have tried to make it as error-free as possible, there's no warranty of a 100% bug free application. 
+
+#### Acknowledgment
+This work is largely based on a number of great tutorials and resources all over the web, compiled by great people from very different domains. Without their effort and their will to make their hard work open access, i would have not been able to compile this tutorial. 
