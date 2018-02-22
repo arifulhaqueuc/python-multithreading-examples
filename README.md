@@ -50,6 +50,21 @@ This repo is not a complete application or project, rather it's a collection of 
 #### Knowledge Base
 As we all know, in general, running multiple threads simulteneously is equivalent to running several programs at the same time. In such case, threading in Python is a very popular process to attain concurrency and parallelism. Using threading module in a Python program gives us several key advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. 
 
+Topics
+  - _thread module 
+  - threading module
+  - Extending Thread 
+  - Getting Current Thread Information
+  - Daemon Threads 
+  - Joining Threads
+  - Time Threads
+  - Events: Communication Between Threads
+  - Locking Resources
+  - Limiting Concurrent Access to Resources
+  - Thread-Specific Data
+
+
+
 #### Functional Description
 All the following files are avilable in the 'script' directory.
 <br /> *Please note that this description section may not be fully updated as of today as I update this section once a week. You might find more scripts in the acctual application directory. Each script has a concise in-script description of the program.*
