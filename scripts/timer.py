@@ -1,8 +1,10 @@
+#!/usr/bin/python
+
+
 ## A Timer starts its work after a delay, 
 ## and can be canceled at any point within that delay time period.
 
 
-#!/usr/bin/python
 import threading
 import time
 import logging

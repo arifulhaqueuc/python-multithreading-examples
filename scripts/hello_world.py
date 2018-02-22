@@ -1,9 +1,11 @@
+#!/usr/bin/python
+
+
 # This is Hello World with Python multithreading.
 # A user defined function is created and 
 # the function is called when a thread is initialized. 
 
 
-#!/usr/bin/python
 import threading
 
 

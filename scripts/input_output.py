@@ -1,8 +1,10 @@
+#!/usr/bin/python
+
+
 # This program takes an string input from a user
 # and print the input in a text file
 
 
-#!/usr/bin/python
 import threading 
 import time 
 
