@@ -1,9 +1,14 @@
+#!/usr/bin/python
+
+
 ##1. Calculate factorial using recursion.
 ##2. Call factorial function using thread. 
+
 
 from thread import start_new_thread
 
 threadId = 1
+
 
 def factorial(n):
    global threadId

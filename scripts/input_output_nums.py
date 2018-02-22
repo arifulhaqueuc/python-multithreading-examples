@@ -1,9 +1,11 @@
+#!/usr/bin/python
+
+
 ## This multithreading program runs five times
 ## and each time the program takes two numbers as given input
 ## and print sum of them.
 
 
-#!/usr/bin/python
 import threading
 import time
 

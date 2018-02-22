@@ -1,9 +1,11 @@
+#!/usr/bin/python
+
+
 ## This program creates a thread, 
 ## officially names it and 
 ## tries to print the name
 
 
-#!/usr/bin/python
 import threading
 import time
 
@@ -39,4 +41,3 @@ def Main():
 
 if __name__ == "__main__":
 	Main()
-

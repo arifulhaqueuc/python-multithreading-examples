@@ -1,7 +1,11 @@
+#!/usr/bin/python
+
+
 import requests
 from multiprocessing.dummy import Pool
 import time
 from datadiff import diff
+
  
 def getzip(code):
     try:
