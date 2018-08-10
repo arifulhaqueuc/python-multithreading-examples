@@ -1,16 +1,33 @@
-<img src="https://user-images.githubusercontent.com/20999114/35537819-a71d5fc4-0519-11e8-9d1f-489ca7ed6822.gif" height="30" width="40">  Project Update & Overview
+
+About The Project
+=================
+TBD
+
+Project Update & Overview
 ====
-#### Current Development Status 
-
-```diff
-+ This repo is under active development at this time,
-- so, frequent and random updates are expected.
-+ Followers are requested to update their local repository regularly.
-```
-
 #### Last Update Info 
 <br />Time: Jan 31 01:00 AM EST
 <br />Update Impact: Major
+
+
+
+List of Contents
+============
+  - _thread module 
+  - threading module
+  - Extending Thread 
+  - Getting Current Thread Information
+  - Daemon Threads 
+  - Joining Threads
+  - Time Threads
+  - Events: Communication Between Threads
+  - Locking Resources
+  - Limiting Concurrent Access to Resources
+  - Thread-Specific Data
+
+
+
+
 
 #### Project Overview
 | About The Repo | Status |
@@ -49,19 +66,6 @@ This repo is not a complete application or project, rather it's a collection of 
 
 #### Knowledge Base
 As we all know, in general, running multiple threads simulteneously is equivalent to running several programs at the same time. In such case, threading in Python is a very popular process to attain concurrency and parallelism. Using threading module in a Python program gives us several key advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. 
-
-Topics
-  - _thread module 
-  - threading module
-  - Extending Thread 
-  - Getting Current Thread Information
-  - Daemon Threads 
-  - Joining Threads
-  - Time Threads
-  - Events: Communication Between Threads
-  - Locking Resources
-  - Limiting Concurrent Access to Resources
-  - Thread-Specific Data
 
 
 
@@ -117,3 +121,8 @@ This is my personal repo and not an official product of any company. If you woul
 
 #### Acknowledgment
 This work is largely based on a number of great tutorials and resources all over the web, compiled by great people from very different domains. Without their effort and their will to make their hard work open access, i would have not been able to compile this tutorial. 
+
+
+
+References
+====
