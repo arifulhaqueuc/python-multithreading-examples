@@ -1,7 +1,7 @@
 
 About The Project
 =================
-TBD
+Multi-threading in Python has been recognized one of its most significant limitations. In this repository, I have tried to use Python's threading module with several scripts to show its usefulness in many diferrent forms. 
 
 Project Update & Overview
 ====
@@ -41,7 +41,7 @@ List of Contents
 | License Type | MIT |
 
 
-:couple: Audience Insights 
+Audience Insights 
 ====
 #### Target Audience
 Developers who already have a good understand of Python programming (version 2.x in particular for this repo) and would like to know in details about Python's Threading module. 
@@ -55,7 +55,6 @@ Practicing all given scripts would help the developers to have a very solid unde
 
 #### Pre-requisites / Know Before You Go
   - Basic knowledge of Python Multithreading module and its built-in functions
-  - Good Knowledge of OOP
   - Good Knowledge of args, and kwargs
 
 
@@ -98,6 +97,7 @@ I have used the following primary Technologies/concepts
 
 ### How to run
   - clone the repo
+  - set the local environment and install the dependencies 
   - go to the *scripts* directory
   - run individual file through terminal as follows
   ```
