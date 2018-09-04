@@ -34,7 +34,7 @@ List of Contents
 | --- | --- |
 | Repo Type | Script Type |
 | Current Development Status | Phase 1 |
-| Development Timeline | Start Jan 2018 :: Finish Feb 2018 |
+| Development Timeline | Start Jan 2018 :: Finish Dec 2018 |
 | Application Type | Backend |
 | Target Audience | Beginner, Mid level Developer |
 | Overall Application Defficulty Level | Mid level |
