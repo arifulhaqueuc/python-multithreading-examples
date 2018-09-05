@@ -43,32 +43,33 @@ List of Contents
 
 Audience Insights 
 ====
-#### Target Audience
-Developers who already have a good understand of Python programming (version 2.x in particular for this repo) and would like to know in details about Python's Threading module. 
+Topic | Description
+---- | ----
+Target Audience | Developers who already have a good understand of Python programming (version 2.x in particular for this repo) and would like to know in details about Python's Threading module. 
+Purpose(s) | This repository helps us understand different usage of Python's threading module with various requirements. 
+What to expect | Practicing all given scripts would help the developers to have a very solid understanding of Python's threading module, and to get an ability to implement Python multithreaded appliation quickly and effectively. 
 
-#### Purpose(s)
-This repository helps us understand different usage of Python's threading module with various requirements. 
-
-#### What to expect
-Practicing all given scripts would help the developers to have a very solid understanding of Python's threading module, and to get an ability to implement Python multithreaded appliation quickly and effectively. 
-
-
-#### Pre-requisites / Know Before You Go
+Pre-requisites / Know Before You Go
+===========
   - Basic knowledge of Python Multithreading module and its built-in functions
   - Good Knowledge of args, and kwargs
 
 
-:green_book: Project Insights
+Project Insights
 ===
-#### Repository Type
-This repo is not a complete application or project, rather it's a collection of individual scripts. 
+| | |
+--- | --- 
+Repository Type | This repo is not a complete application or project, rather it's a collection of individual scripts. 
 
-#### Knowledge Base
+
+Knowledge Base
+=========
 As we all know, in general, running multiple threads simulteneously is equivalent to running several programs at the same time. In such case, threading in Python is a very popular process to attain concurrency and parallelism. Using threading module in a Python program gives us several key advatages such as sharing same data space and operating on light-weight process in order to avoid unnecessary memory overhead. 
 
 
 
-#### Functional Description
+Functional Description
+=========
 All the following files are avilable in the 'script' directory.
 <br /> *Please note that this description section may not be fully updated as of today as I update this section once a week. You might find more scripts in the acctual application directory. Each script has a concise in-script description of the program.*
 
@@ -90,21 +91,16 @@ All the following files are avilable in the 'script' directory.
 | script_11 | Intermediate | This program tries to access the values of args and kwargs. |
 | script_12 | TBD | TBD |
 
-### Technical Description
-I have used the following primary Technologies/concepts
-  - Python 2.7
-  - Multithreading
 
-### How to run
+How to run
+==========
   - clone the repo
   - set the local environment and install the dependencies 
   - go to the *scripts* directory
   - run individual file through terminal as follows
-  ```
-  python file_name.py
-  ```
-
-:computer: Support & Disclaimer
+  
+  
+Support & Disclaimer
 ===
 ### Support
 Found a bug??
@@ -126,3 +122,4 @@ This work is largely based on a number of great tutorials and resources all over
 
 References
 ====
+TBD
