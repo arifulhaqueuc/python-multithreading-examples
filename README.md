@@ -1,13 +1,13 @@
 
 About The Project
 =================
-Multi-threading in Python has been recognized one of its most significant limitations. In this repository, I have tried to use Python's threading module with several scripts to show its usefulness in many diferrent forms. 
 
-Project Update & Overview
-====
-#### Last Update Info 
-<br />Time: Jan 31 01:00 AM EST
-<br />Update Impact: Major
+Topic | Description
+---- | ----
+About the topic | Multi-threading in Python has been recognized one of its most significant limitations. In this repository, I have tried to use Python's threading module with several scripts to show its usefulness in many diferrent forms. 
+Target Audience | Developers who already have a good understand of Python programming (version 2.x in particular for this repo) and would like to know in details about Python's Threading module. 
+Purpose(s) | This repository helps us understand different usage of Python's threading module with various requirements. 
+What to expect | Practicing all given scripts would help the developers to have a very solid understanding of Python's threading module, and to get an ability to implement Python multithreaded appliation quickly and effectively. 
 
 
 
@@ -27,39 +27,12 @@ List of Contents
 
 
 
-
-
-#### Project Overview
-| About The Repo | Status |
-| --- | --- |
-| Repo Type | Script Type |
-| Current Development Status | Phase 1 |
-| Development Timeline | Start Jan 2018 :: Finish Dec 2018 |
-| Application Type | Backend |
-| Target Audience | Beginner, Mid level Developer |
-| Overall Application Defficulty Level | Mid level |
-| License Type | MIT |
-
-
-Audience Insights 
-====
-Topic | Description
----- | ----
-Target Audience | Developers who already have a good understand of Python programming (version 2.x in particular for this repo) and would like to know in details about Python's Threading module. 
-Purpose(s) | This repository helps us understand different usage of Python's threading module with various requirements. 
-What to expect | Practicing all given scripts would help the developers to have a very solid understanding of Python's threading module, and to get an ability to implement Python multithreaded appliation quickly and effectively. 
-
 Pre-requisites / Know Before You Go
 ===========
   - Basic knowledge of Python Multithreading module and its built-in functions
   - Good Knowledge of args, and kwargs
 
 
-Project Insights
-===
-| | |
---- | --- 
-Repository Type | This repo is not a complete application or project, rather it's a collection of individual scripts. 
 
 
 Knowledge Base
@@ -68,7 +41,7 @@ As we all know, in general, running multiple threads simulteneously is equivalen
 
 
 
-Functional Description
+Repository Description
 =========
 All the following files are avilable in the 'script' directory.
 <br /> *Please note that this description section may not be fully updated as of today as I update this section once a week. You might find more scripts in the acctual application directory. Each script has a concise in-script description of the program.*
