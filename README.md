@@ -1,3 +1,4 @@
+[this repository is under active development with a target completion date Dec 31' 2018]
 
 About The Project
 =================
