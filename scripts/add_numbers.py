@@ -20,6 +20,7 @@ def Main():
 			args=(12,13)
 		)
 	t.start()
+	print "Started Thread to add numbers"
 
 
 if __name__ == '__main__':
