@@ -49,6 +49,7 @@ def Main():
             kwargs={'Country':'USA', 'Zip':'12345'}
         )
         myThread.start()
+        print "Sleeping for 1sec"
         time.sleep(1)
 
 
